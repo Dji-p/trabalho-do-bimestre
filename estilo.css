@@ -1,0 +1,45 @@
+.tabela-direita{
+    float: right;
+    margin-right: 20px;
+}
+.groupo-a{
+    color: brown;
+    background-color: azure;
+}
+h1{
+    color: blue;
+  background-color: aliceblue;
+  position: center;
+
+}
+.equipe.a{
+    color: black;
+    background-color: white;
+}
+.groupo-b{
+    color: blueviolet;
+    background-color: white;
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-vector/f1-3d-race-car-icon-260nw-2326033695.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+th{
+    color: blue;
+    background-color: white;
+}
+td{
+    color: brown;
+    background-color: white;
+}
+.resultado{
+    color: blueviolet;
+    background-color: white;
+
+}
+.groupo{
+    color: gold;
+    background-color: black;
+}
